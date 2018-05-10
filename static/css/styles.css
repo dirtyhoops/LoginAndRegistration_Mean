@@ -1,0 +1,16 @@
+.registrationdiv, .logindiv {
+    width: 98%;
+    display: inline-block;
+    border: 1px solid rgb(173, 154, 154);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.logindiv {
+    vertical-align: top;
+}
+
+.insideboxmargin {
+    margin: 10px;
+}
